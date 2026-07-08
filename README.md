@@ -247,20 +247,20 @@ A quiz system built for scale — with leaderboards, analytics dashboards, AI TT
 
 <div align="center">
 
-<!-- Stats + Top Langs — using anuraghazra's canonical instance with cache_seconds to reduce rate-limit hits -->
+<!-- Stats + Top Langs -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zack-River&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github&cache_seconds=86400&include_all_commits=true&count_private=true" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-River&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
-<!-- Streak — DylanBK's self-hostable mirror is the most stable public endpoint -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zack-River&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=94A3B8&dates=4B5563&card_width=500" />
+<!-- Streak — git.io/streak-stats is the canonical stable domain -->
+<img src="https://streak-stats.demolab.com/?user=Zack-River&theme=dark&hide_border=true&background=0D1117&stroke=1e3a5f&ring=3B82F6&fire=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=4B5563&card_width=500" />
 
 <br/><br/>
 
-<!-- Trophy — flat theme is the most reliably rendered -->
-<img src="https://github-profile-trophy.vercel.app/?username=Zack-River&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<!-- Trophy — onedark is the most stable dark theme on this service -->
+<img src="https://github-profile-trophy.vercel.app/?username=Zack-River&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 <br/><br/>
 
@@ -269,8 +269,12 @@ A quiz system built for scale — with leaderboards, analytics dashboards, AI TT
 
 <br/><br/>
 
-<!-- Contribution Calendar — zero setup required -->
-<img src="https://ghchart.rshah.org/3B82F6/Zack-River" alt="Zack River's Contribution Chart" width="100%" />
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zack-River/Zack-River/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zack-River/Zack-River/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Zack-River/Zack-River/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <br/><br/>
 
