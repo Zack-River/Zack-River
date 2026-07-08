@@ -254,13 +254,6 @@ A quiz system built for scale — with leaderboards, analytics dashboards, AI TT
 
 <br/><br/>
 
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zack-River&theme=dark&hide_border=true&background=0D1117&stroke=1e3a5f&ring=3B82F6&fire=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=4B5563&card_width=500" />
-
-<br/><br/>
-
-
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zack-River&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4&area=true&area_color=1e3a5f&hide_border=true&radius=6" width="100%" />
 
