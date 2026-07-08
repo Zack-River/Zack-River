@@ -248,21 +248,18 @@ A quiz system built for scale — with leaderboards, analytics dashboards, AI TT
 <div align="center">
 
 <!-- Stats + Top Langs -->
-<img height="170" src="https://zack-readme-stats.vercel.app/api?username=Zack-River&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github&cache_seconds=86400&include_all_commits=true&count_private=true" />
+<img height="170" src="https://zack-readme-stats.vercel.app/api?username=Zack-River&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github&cache_seconds=1801&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="170" src="https://zack-readme-stats.vercel.app/api/top-langs/?username=Zack-River&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8&langs_count=8&cache_seconds=86400" />
+<img height="170" src="https://zack-readme-stats.vercel.app/api/top-langs/?username=Zack-River&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8&langs_count=8&cache_seconds=1801" />
 
 <br/><br/>
 
-<!-- Streak — git.io/streak-stats is the canonical stable domain -->
-<img src="https://streak-stats.demolab.com/?user=Zack-River&theme=dark&hide_border=true&background=0D1117&stroke=1e3a5f&ring=3B82F6&fire=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=4B5563&card_width=500" />
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zack-River&theme=dark&hide_border=true&background=0D1117&stroke=1e3a5f&ring=3B82F6&fire=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=4B5563&card_width=500" />
 
 <br/><br/>
 
-<!-- Trophy — onedark is the most stable dark theme on this service -->
-<img src="https://github-profile-trophy.vercel.app/?username=Zack-River&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
-<br/><br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zack-River&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4&area=true&area_color=1e3a5f&hide_border=true&radius=6" width="100%" />
@@ -296,11 +293,11 @@ What I'm building and studying right now:
 
 | Area | Focus |
 |---|---|
-| 🏗️ **Building** | Deqal — new SaaS product in active development |
+| 🏗️ **Building** | StreamFlow — Upgrading to SaaS product |
 | 🔐 **Security** | API security, OAuth hardening, threat modeling |
 | ⚙️ **Architecture** | Advanced system design, distributed systems patterns |
-| 🌐 **Backend** | Event-driven architecture, message queues, WebSockets at scale |
-| 🛡️ **Cyber Security** | Offensive & defensive fundamentals, CTF practice |
+| 🌐 **Backend** | Event-driven architecture, message queues, ASP .Net Core |
+| 🛡️ **Cyber Security** | Offensive & defensive fundamentals, CTF practice, OWASP 10 |
 | 💼 **Freelance** | Expanding client base, building repeatable delivery systems |
 
 <br/>
