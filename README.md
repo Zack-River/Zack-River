@@ -248,9 +248,9 @@ A quiz system built for scale — with leaderboards, analytics dashboards, AI TT
 <div align="center">
 
 <!-- Stats + Top Langs -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zack-River&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github&cache_seconds=86400&include_all_commits=true&count_private=true" />
+<img height="170" src="https://zack-readme-stats.vercel.app/api?username=Zack-River&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github&cache_seconds=86400&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-River&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8&langs_count=8&cache_seconds=86400" />
+<img height="170" src="https://zack-readme-stats.vercel.app/api/top-langs/?username=Zack-River&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
