@@ -8,11 +8,11 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://zack-river.vercel.app">
+  <a href="https://zackriver.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/labdallah-wageehl/">
+  <a href="https://linkedin.com/in/zackriver/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
