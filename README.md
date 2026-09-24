@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING BANNER -->
-<a href="https://zack-river.vercel.app">
+<a href="https://www.zackriver.com/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=Hi%2C+I'm+Zack+River+%F0%9F%91%8B;Full+Stack+Engineer;Building+Production+Systems;Backend+Specialist;Turning+Ideas+into+Products" alt="Typing SVG" />
 </a>
 <br/>
