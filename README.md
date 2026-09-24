@@ -8,7 +8,7 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://zackriver.com">
+  <a href="https://www.zackriver.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
