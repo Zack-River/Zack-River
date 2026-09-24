@@ -310,7 +310,7 @@ If you have a system to design, an API to build, a SaaS to launch, or a codebase
 
 <br/>
 
-<a href="https://zack-river.vercel.app">
+<a href="https://www.zackriver.com/">
   <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
@@ -318,7 +318,7 @@ If you have a system to design, an API to build, a SaaS to launch, or a codebase
   <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/labdallah-wageehl/">
+<a href="https://linkedin.com/in/zackriver/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -334,6 +334,6 @@ If you have a system to design, an API to build, a SaaS to launch, or a codebase
 
 <div align="center">
 
-<sub>Designed and maintained by <strong>Zack River</strong> · Egypt · <a href="https://zack-river.vercel.app">zack-river.vercel.app</a></sub>
+<sub>Designed and maintained by <strong>Zack River</strong> · Egypt · <a href="https://www.zackriver.com/">zack-river.com</a></sub>
 
 </div>
