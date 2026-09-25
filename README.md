@@ -253,11 +253,6 @@ A quiz system built for scale — with leaderboards, analytics dashboards, AI TT
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zack-River&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4&area=true&area_color=1e3a5f&hide_border=true&radius=6" width="100%" />
-
-<br/><br/>
-
 <!-- Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zack-River/Zack-River/output/github-contribution-grid-snake-dark.svg" />
